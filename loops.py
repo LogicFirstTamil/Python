@@ -1,6 +1,6 @@
 
 #Loop - repeats a set of code - while,for
-
+print("loop demo")
 letter = ' '
 while not letter.isalpha():
     letter = input("Enter an alphabet: ")
